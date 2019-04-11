@@ -22,6 +22,7 @@
 	{	
     	echo"plz try another no";
     }
+echokjhgfds
 ?>
 </body>
 </html>	
